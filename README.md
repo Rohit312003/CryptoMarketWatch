@@ -35,11 +35,11 @@ CryptoMW provides a flexible, professional trader-style interface for live crypt
 4. During configuration, set the compiler to **MinGW 64-bit**
 5. To run in debug mode:
 ```
-Set the build directory to NX_BLOCKS_PROJECT\Debug
+Set the build directory to ..\Debug
 ```
 6. To run in release mode:
 ``` 
-Set the build directory to NX_BLOCKS_PROJECT\Release   
+Set the build directory to ..\Release   
 ```
 7. Build and run the project as usual
 
